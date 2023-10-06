@@ -1,0 +1,35 @@
+body {
+    background-image:url(images/Madara.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center center;
+    background-attachment: fixed;
+}
+body {
+    font-family: Mojo, fantasy;
+    line-height: 4.5em;
+    margin: 4em; 
+    text-shadow: -.12em .2em .12em whitesmoke;
+    font-size: larger;
+}
+header {
+    color: darkblue;
+    text-align: cente;
+    padding: 1em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 9;
+    text-shadow: -.12em .2em .12em plum;
+}
+
+li {
+    display: block;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 2.5em;
+}
+

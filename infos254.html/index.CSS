@@ -1,0 +1,43 @@
+body {
+    background-image:url(images/Gojo.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center center;
+    background-attachment: fixed;
+}
+body {
+    font-family: Mojo, fant;
+    line-height: 1.5;
+    margin: 3;
+}
+header {
+    color: red;
+    text-align: center;
+    padding: 3em;
+    text-shadow: -.2em .3em .1em whitesmoke;
+}
+
+nav ul {
+    font-family: Mojo, fantasy; 
+    list-style-type: none;
+    margin: em;
+    text-shadow: .5em -.4em .7em black;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 3.5em;
+}
+
+section {
+    text-shadow: -.2em .2em white;
+    margin: 1.4em;
+    font-family: Mojo, fantasy;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+}

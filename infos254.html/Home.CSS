@@ -1,0 +1,43 @@
+body {
+    background-image:url(images/Obito.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center center;
+    background-attachment: fixed;
+}
+body {
+    font-family: Mojo, fantasy;
+    line-height: 1;
+    margin: 3;
+    text-shadow: -.3em .3em .3em silver; 
+}
+
+header {
+    font: bolder 1.2em Mojo,fantas;
+    color: white;
+    text-align: left;
+    padding: 2em;
+    text-shadow: -.6em .2em .3em black;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 2em;
+}
+
+section {
+    margin: 2.5em;
+}
+
+footer {
+    color: dark navy;
+    text-align: center;
+    padding: 0.5em;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+}
